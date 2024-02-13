@@ -1,0 +1,39 @@
+_repo: Miles-Lawson-b-or-the-Yews_72740
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lloyd, W. Reynolds, Mrs.
+    aliases:
+    - Fox, Bitha
+    - Lloyd, Bitha
+    - Lloyd, Mrs. W. Reynolds
+    birthdate: 1811
+    deathdate: 1894
+    gutenberg_agent_id: '56792'
+    url: http://www.gutenberg.org/2009/agents/56792
+description: ''
+gutenberg_issued: '2024-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72740'
+language: en
+pgterms:marc905: 20240115071646lloyd
+pgterms:marc906: '1896'
+pgterms:marc907: US
+publication_note: '  $aBoston :$bIra Bradley & Co., $c1896.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'Siblings -- Juvenile fiction'
+- !lcsh 'Miners -- Juvenile fiction'
+- !lcsh 'Mountains -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Youth -- Death -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Miles Lawson : $b or, the Yews'
+url: http://www.gutenberg.org/ebooks/72740
